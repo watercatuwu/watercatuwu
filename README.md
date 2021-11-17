@@ -19,11 +19,6 @@
 <h3 align="center">主要會的語言有Python和Html</h3>
 
 ## GitHub Stats
-<div class="row">
-  <div class="col-6 ">
-    <img src="https://github-readme-stats.vercel.app/api?username=watercatuwu&show_icons=true&locale=en" alt="watercatuwu" />
-  </div>
-  <div class="col-6">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=watercatuwu&" alt="watercatuwu" />
-  </div>
- </div>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=watercatuwu&show_icons=true&locale=en" alt="watercatuwu" /></p>
+
+<p align="right"><img src="https://github-readme-streak-stats.herokuapp.com/?user=watercatuwu&" alt="watercatuwu" /></p>
