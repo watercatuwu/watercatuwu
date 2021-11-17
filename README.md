@@ -16,3 +16,6 @@
 
 ## GitHub Status
 ![overview](https://github.com/watercatuwu/github-stats/blob/master/generated/overview.svg)
+
+## DISCORD
+![Discord](https://img.shields.io/badge/%3C溺水貓#7200%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
