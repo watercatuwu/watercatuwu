@@ -9,7 +9,6 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-
 正在學習 Python
 
 主要會用的語言有Python和Html
@@ -17,5 +16,4 @@
 ## GitHub Status
 ![overview](https://github.com/watercatuwu/github-stats/blob/master/generated/overview.svg)
 
-## DISCORD
-![Discord](https://img.shields.io/badge/溺水貓 # 7200-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+
