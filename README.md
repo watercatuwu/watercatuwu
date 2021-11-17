@@ -4,5 +4,6 @@
 主要會用的語言有Python和Html
 
 ![overview](https://github.com/watercatuwu/github-stats/blob/master/generated/overview.svg)
+![languages](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg)
 
 ![image](https://raw.githubusercontent.com/watercatuwu/watercatuwu/main/unknown.png)
