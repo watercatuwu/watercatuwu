@@ -16,4 +16,3 @@
 
 <h2>GitHub Stats <img src="https://komarev.com/ghpvc/?username=watercatuwu&label=Profile%20views&color=0e75b6&style=flat-square"></h2>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-readme-stats.vercel.app/api?username=watercatuwu&show_icons=true&locale=en" alt="watercatuwu" /></a>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=watercatuwu&" alt="watercatuwu" />
