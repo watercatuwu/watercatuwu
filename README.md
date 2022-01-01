@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/watercatuwu/watercatuwu/main/unknown.png" alt="頭像" width="150"></p>
+<p align="center"><img src="https://avatars.githubusercontent.com/u/92051934?s=400&u=0751e91d9df3eb55db7571e13db96c13c37d4347&v=4" alt="頭像" width="150"></p>
 <h1 align="center">嗨嗨👋 我是 溺水貓~</h1>
 
 <p align="center"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></p>
