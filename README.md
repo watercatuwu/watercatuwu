@@ -1,18 +1,25 @@
-<p align="center"><img src="https://avatars.githubusercontent.com/u/92051934?s=400&u=0751e91d9df3eb55db7571e13db96c13c37d4347&v=4" alt="頭像" width="150"></p>
-<h1 align="center">嗨嗨👋 我是 溺水貓~</h1>
 
-<p align="center"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></p>
+# Hi👋 I am watercat.
 
-<p align="center">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-</p>
-</div>
+A student.
 
-<h3 align="center">正在學習 Python</h3>
+My dream is become a cool developer.
 
-<h3 align="center">主要會的語言有Python和Html</h3>
+Still learning...
 
-<h2>GitHub Stats <img src="https://komarev.com/ghpvc/?username=watercatuwu&label=Profile%20views&color=0e75b6&style=flat-square"></h2>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><p align="center"><img src="https://github-readme-stats.vercel.app/api?username=watercatuwu&show_icons=true&locale=en" alt="watercatuwu" /></p></a>
+## Skill
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+## Social Accont
+![Static Badge](https://img.shields.io/badge/Discord-%40watercatuwu-blue?style=for-the-badge&logo=discord&logoColor=white)
+
+```
+var developer = {
+    name: "watercatuwu";
+    job: "student";
+    skill: ["Python", "HTML", "JavaScript"];
+    discord: "@watercatuwu"
+};
+```
