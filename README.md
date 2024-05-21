@@ -7,7 +7,7 @@ My dream is become a cool developer.
 
 Still learning...
 
-[![moecounter](https://count.getloli.com/get/@watercatuwu)](https://count.chiya.dev/get/@watercatuwu)
+![moecounter](https://count.chiya.dev/get/@watercatuwu)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=watercatuwu&show_icons=true&theme=transparent)
 
