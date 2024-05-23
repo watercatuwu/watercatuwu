@@ -11,8 +11,6 @@ Still learning...
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=watercatuwu&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=watercatuwu&layout=compact&theme=trasparent)
-
 ## My Setup
 
 ![AMD R53600](https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white
