@@ -13,12 +13,15 @@ Still learning...
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=watercatuwu&show_icons=true&theme=transparent)
 
+## OSU CTB
+[osu!](https://osu.ppy.sh/users/17954761)
+![osekai](https://osekai.net/profiles/img/banner.svg?id=17954761)
+
 ## My Setup
 
 ![AMD R53600](https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white
 )
 ![AMD RX580](https://img.shields.io/badge/AMD-Radeon_RX_580-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
