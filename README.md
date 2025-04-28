@@ -1,6 +1,6 @@
 ![pic](https://cdn.7tv.app/emote/6395800091e326488a5305a0/4x.gif)
 
-# Hi👋 I am watercat.
+# Hi I am watercat.
 
 A student.
 
@@ -10,13 +10,7 @@ Still learning...
 
 [![CodeTime Badge](https://img.shields.io/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D20467%26project%3D%26in=0)](https://codetime.dev)
 
-![moecounter](https://count.chiya.dev/get/@watercatuwu)
-
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=watercatuwu&show_icons=true&theme=transparent)
-
-## OSU CTB
-[osu!](https://osu.ppy.sh/users/17954761)
-![osekai](https://osekai.net/profiles/img/banner.svg?id=17954761)
 
 ## My Setup
 
