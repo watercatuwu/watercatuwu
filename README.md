@@ -1,4 +1,4 @@
-![pic](https://cdn.7tv.app/emote/6395800091e326488a5305a0/4x.gif)
+![oguricap](https://i.meee.com.tw/uJlWofk.gif)
 
 # Hi I am watercat.
 
